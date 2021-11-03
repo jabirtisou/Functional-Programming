@@ -1,0 +1,24 @@
+{
+  "name": "functional-programming-cmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabirtisou/Functional-Programming-CMD.git"
+  },
+  "author": "Jabir Tisoudali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabirtisou/Functional-Programming-CMD/issues"
+  },
+  "homepage": "https://github.com/jabirtisou/Functional-Programming-CMD#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "request": "^2.88.2"
+  },
+    "type": "module"
+}
