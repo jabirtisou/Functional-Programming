@@ -95,7 +95,14 @@ Om de script te activeren gebruik:
 Node script.js
 ```
 ### 📽 Output
-<img src="https://github.com/jabirtisou/Functional-Programming/blob/main/Wiki_images/OutputEnqueteDataset.png" width='50%' alt="Logo" /> <img src="https://github.com/jabirtisou/Functional-Programming/blob/main/Wiki_images/OutputBigMacPriceIndex.png" width='50%' alt="Logo" />
+Output Week1 Enquete Dataset 
+    <br />
+
+<img src="https://github.com/jabirtisou/Functional-Programming/blob/main/Wiki_images/OutputEnqueteDataset.png" width='50%' alt="Logo" /> 
+Output Week2 Big Mac Price Index 
+    <br />
+
+<img src="https://github.com/jabirtisou/Functional-Programming/blob/main/Wiki_images/OutputBigMacPriceIndex.png" width='50%' alt="Logo" />
 
 
 
