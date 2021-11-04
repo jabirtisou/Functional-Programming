@@ -46,6 +46,7 @@ Als opdracht heb ik een programma geschreven die een dataset opschoont. De datas
 ### Built With
 
 * [NodeJS](https://nodejs.dev/npm-global-or-local-packages)
+* [Node-Fetch](https://www.npmjs.com/package/node-fetch)
 
 
 
